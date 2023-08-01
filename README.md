@@ -1,2 +1,2 @@
 # Personal-Website
- My personal website, making with HTML,CSS,JS
+ My personal website, made with HTML,CSS,JS
